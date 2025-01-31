@@ -1,0 +1,94 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.img-uno {
+    background-color: lightcoral; 
+    border-radius: 20px; 
+    width:  400px;
+    height: auto;
+    margin: 10px 0;
+    display: block
+}
+
+.img-dos {
+    background-color: aquamarine;
+    border-radius: 30%;
+    width:  400px;
+    height: auto;
+    margin: 10px 0;
+    display: block
+}
+
+.img-tres {
+    background-color: lightgreen;
+    border-radius: 10px;
+    width:  400px;
+    height: auto;
+    margin: 10px 0;
+    display: block
+}
+
+.encabezado {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(133, 141, 168);
+}
+
+.menu {
+    padding: 20px;
+    background-color: lightblue
+}
+
+.li{
+    list-style: square;
+    display: inline;
+    margin-right: 10px;
+    font-size: 30px;
+    background-color: lightblue;
+    text-align: justify;
+}
+
+
+.principal {
+    width: 50%;
+    margin-left: 5%;
+    background-color: lightblue
+}
+
+
+.seccion {
+    width: 50%;
+    display: block;
+    margin: 10xp 0;
+}
+
+.apartado {
+    width: 45%;
+    background-color: rgb(5, 167, 5);
+    margin-top: 10px;
+}
+
+.pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    background-color: lavender;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: lightgrey;
+}
+
+.Datos {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 400px;
+    background-color: rgb(53, 168, 53);
+    border: 1px solid #f80101;
+    border-radius: 10px;
+}
